@@ -1,3 +1,5 @@
+> **Nota:** este proyecto está superado por [Duplicados-finder-v2](https://github.com/VSGdev-ops/Duplicados-finder-v2).
+
 # Buscador de Archivos Duplicados
 
 ## Descripción
